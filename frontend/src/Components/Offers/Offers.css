@@ -37,3 +37,10 @@
     margin-top: 20px;  
     cursor: pointer;
 }
+.offers-right{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 50px;
+}
